@@ -1,0 +1,9 @@
+variant,dataset,auroc,std
+full model,MVTec-AD,98.1,0.3
+full model,VisA,94.7,0.5
+no velocity term,MVTec-AD,95.4,0.6
+no velocity term,VisA,90.2,0.8
+no multi-step,MVTec-AD,96.8,0.4
+no multi-step,VisA,92.9,0.6
+single scale,MVTec-AD,94.9,0.7
+single scale,VisA,89.5,0.9

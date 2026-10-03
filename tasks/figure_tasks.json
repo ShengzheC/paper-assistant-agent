@@ -1,0 +1,42 @@
+[
+  {
+    "name": "training_curves",
+    "task": "Plot validation accuracy versus epoch for the three methods in curves.csv (columns: method, seed, epoch, val_acc). Show the mean over seeds as a line and plus/minus one standard deviation as a shaded band. Single-column width.",
+    "data": ["curves.csv"]
+  },
+  {
+    "name": "ablation_bars",
+    "task": "Grouped bar chart of image-level AUROC (%) for the four model variants in ablation.csv on its two datasets, with error bars from the std column. Single-column width.",
+    "data": ["ablation.csv"]
+  },
+  {
+    "name": "flow_matching_paths",
+    "task": "Toy example for flow matching: sample 400 points from a standard 2D Gaussian (x0) and 400 points from the two-moons distribution (x1, generated with numpy), pair them at random, and show the linear interpolation x_t = (1 - t) x0 + t x1 at t = 0, 0.25, 0.5, 0.75, 1 as five side-by-side panels with equal aspect and shared axes. Double-column width.",
+    "data": []
+  },
+  {
+    "name": "momentum_rosenbrock",
+    "task": "Toy optimization example: a contour plot of the Rosenbrock function on [-2, 2] x [-1, 3] with the trajectories of plain gradient descent and of gradient descent with heavy-ball momentum, both starting at (-1.5, 2.0) and run for 300 steps with stable step sizes. Mark the start point and the minimum.",
+    "data": []
+  },
+  {
+    "name": "damped_oscillator",
+    "task": "Phase portrait of the damped oscillator x'' + 0.3 x' + x = 0 on [-3, 3] x [-3, 3]: a streamplot of the vector field plus three trajectories from different initial conditions, integrated with fourth-order Runge-Kutta.",
+    "data": []
+  },
+  {
+    "name": "logistic_bifurcation",
+    "task": "Bifurcation diagram of the logistic map x_{n+1} = r x_n (1 - x_n) for r from 2.5 to 4.0: for each of 1500 values of r, discard 500 transient iterations and plot the next 200 iterates as small points.",
+    "data": []
+  },
+  {
+    "name": "gmm_density",
+    "task": "Heatmap of the density of a 2D Gaussian mixture with three components (choose the means and covariances) on [-4, 4] x [-4, 4], with a colorbar and contour lines, plus 200 samples from the mixture overlaid as small points.",
+    "data": []
+  },
+  {
+    "name": "lorenz",
+    "task": "Simulate the Lorenz system (sigma = 10, rho = 28, beta = 8/3) from (1, 1, 1) with fourth-order Runge-Kutta for 40 time units with dt = 0.01. Show two panels: the trajectory projected on the x-z plane, and x(t) over time. Double-column width.",
+    "data": []
+  }
+]

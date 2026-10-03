@@ -1,0 +1,451 @@
+method,seed,epoch,val_acc
+baseline,0,1,0.3964
+baseline,0,2,0.4304
+baseline,0,3,0.4729
+baseline,0,4,0.5089
+baseline,0,5,0.5301
+baseline,0,6,0.5647
+baseline,0,7,0.5917
+baseline,0,8,0.6167
+baseline,0,9,0.628
+baseline,0,10,0.646
+baseline,0,11,0.6622
+baseline,0,12,0.6742
+baseline,0,13,0.6952
+baseline,0,14,0.698
+baseline,0,15,0.7101
+baseline,0,16,0.7164
+baseline,0,17,0.7318
+baseline,0,18,0.7384
+baseline,0,19,0.7438
+baseline,0,20,0.741
+baseline,0,21,0.7558
+baseline,0,22,0.7663
+baseline,0,23,0.7713
+baseline,0,24,0.77
+baseline,0,25,0.7854
+baseline,0,26,0.7767
+baseline,0,27,0.7813
+baseline,0,28,0.789
+baseline,0,29,0.7874
+baseline,0,30,0.798
+baseline,0,31,0.7912
+baseline,0,32,0.7896
+baseline,0,33,0.7921
+baseline,0,34,0.7919
+baseline,0,35,0.793
+baseline,0,36,0.8026
+baseline,0,37,0.8025
+baseline,0,38,0.8062
+baseline,0,39,0.8004
+baseline,0,40,0.8138
+baseline,0,41,0.8044
+baseline,0,42,0.8154
+baseline,0,43,0.8104
+baseline,0,44,0.8112
+baseline,0,45,0.8162
+baseline,0,46,0.8192
+baseline,0,47,0.8188
+baseline,0,48,0.8198
+baseline,0,49,0.8204
+baseline,0,50,0.8228
+baseline,1,1,0.3945
+baseline,1,2,0.4382
+baseline,1,3,0.4708
+baseline,1,4,0.5034
+baseline,1,5,0.5369
+baseline,1,6,0.5558
+baseline,1,7,0.5862
+baseline,1,8,0.6079
+baseline,1,9,0.6197
+baseline,1,10,0.6337
+baseline,1,11,0.6608
+baseline,1,12,0.6726
+baseline,1,13,0.685
+baseline,1,14,0.6987
+baseline,1,15,0.7192
+baseline,1,16,0.7204
+baseline,1,17,0.7325
+baseline,1,18,0.7357
+baseline,1,19,0.7571
+baseline,1,20,0.763
+baseline,1,21,0.7711
+baseline,1,22,0.774
+baseline,1,23,0.7826
+baseline,1,24,0.7823
+baseline,1,25,0.7871
+baseline,1,26,0.7863
+baseline,1,27,0.7818
+baseline,1,28,0.7953
+baseline,1,29,0.7851
+baseline,1,30,0.7925
+baseline,1,31,0.793
+baseline,1,32,0.7921
+baseline,1,33,0.8012
+baseline,1,34,0.802
+baseline,1,35,0.8025
+baseline,1,36,0.8096
+baseline,1,37,0.8093
+baseline,1,38,0.82
+baseline,1,39,0.8126
+baseline,1,40,0.8124
+baseline,1,41,0.8079
+baseline,1,42,0.812
+baseline,1,43,0.8229
+baseline,1,44,0.8196
+baseline,1,45,0.8198
+baseline,1,46,0.8274
+baseline,1,47,0.8127
+baseline,1,48,0.8157
+baseline,1,49,0.8151
+baseline,1,50,0.8216
+baseline,2,1,0.3943
+baseline,2,2,0.4327
+baseline,2,3,0.4709
+baseline,2,4,0.4974
+baseline,2,5,0.5357
+baseline,2,6,0.5622
+baseline,2,7,0.5809
+baseline,2,8,0.6042
+baseline,2,9,0.6194
+baseline,2,10,0.6528
+baseline,2,11,0.6573
+baseline,2,12,0.6773
+baseline,2,13,0.6869
+baseline,2,14,0.7031
+baseline,2,15,0.7151
+baseline,2,16,0.7292
+baseline,2,17,0.7327
+baseline,2,18,0.7416
+baseline,2,19,0.7425
+baseline,2,20,0.757
+baseline,2,21,0.7773
+baseline,2,22,0.7723
+baseline,2,23,0.7688
+baseline,2,24,0.7722
+baseline,2,25,0.7768
+baseline,2,26,0.7868
+baseline,2,27,0.7921
+baseline,2,28,0.7918
+baseline,2,29,0.7915
+baseline,2,30,0.8029
+baseline,2,31,0.8
+baseline,2,32,0.7961
+baseline,2,33,0.8007
+baseline,2,34,0.804
+baseline,2,35,0.7936
+baseline,2,36,0.805
+baseline,2,37,0.7983
+baseline,2,38,0.7979
+baseline,2,39,0.7948
+baseline,2,40,0.7991
+baseline,2,41,0.7947
+baseline,2,42,0.7937
+baseline,2,43,0.8043
+baseline,2,44,0.8044
+baseline,2,45,0.8013
+baseline,2,46,0.8082
+baseline,2,47,0.8046
+baseline,2,48,0.812
+baseline,2,49,0.8055
+baseline,2,50,0.812
+ours,0,1,0.4153
+ours,0,2,0.4909
+ours,0,3,0.5345
+ours,0,4,0.5713
+ours,0,5,0.6207
+ours,0,6,0.6489
+ours,0,7,0.6773
+ours,0,8,0.7045
+ours,0,9,0.7297
+ours,0,10,0.7507
+ours,0,11,0.7578
+ours,0,12,0.7853
+ours,0,13,0.7962
+ours,0,14,0.8001
+ours,0,15,0.81
+ours,0,16,0.8182
+ours,0,17,0.8285
+ours,0,18,0.8313
+ours,0,19,0.8347
+ours,0,20,0.8471
+ours,0,21,0.8501
+ours,0,22,0.8498
+ours,0,23,0.8555
+ours,0,24,0.8613
+ours,0,25,0.8556
+ours,0,26,0.8594
+ours,0,27,0.8682
+ours,0,28,0.8682
+ours,0,29,0.8677
+ours,0,30,0.8721
+ours,0,31,0.8647
+ours,0,32,0.8613
+ours,0,33,0.8657
+ours,0,34,0.87
+ours,0,35,0.8675
+ours,0,36,0.8687
+ours,0,37,0.8677
+ours,0,38,0.8676
+ours,0,39,0.8685
+ours,0,40,0.8713
+ours,0,41,0.8714
+ours,0,42,0.8669
+ours,0,43,0.8708
+ours,0,44,0.87
+ours,0,45,0.8741
+ours,0,46,0.8699
+ours,0,47,0.8757
+ours,0,48,0.865
+ours,0,49,0.874
+ours,0,50,0.8755
+ours,1,1,0.4198
+ours,1,2,0.4815
+ours,1,3,0.533
+ours,1,4,0.5785
+ours,1,5,0.6146
+ours,1,6,0.6487
+ours,1,7,0.6764
+ours,1,8,0.7127
+ours,1,9,0.7296
+ours,1,10,0.753
+ours,1,11,0.7618
+ours,1,12,0.7761
+ours,1,13,0.7919
+ours,1,14,0.8066
+ours,1,15,0.8147
+ours,1,16,0.8205
+ours,1,17,0.8226
+ours,1,18,0.8331
+ours,1,19,0.8398
+ours,1,20,0.8442
+ours,1,21,0.8371
+ours,1,22,0.8498
+ours,1,23,0.8576
+ours,1,24,0.8667
+ours,1,25,0.8674
+ours,1,26,0.8739
+ours,1,27,0.8665
+ours,1,28,0.8683
+ours,1,29,0.857
+ours,1,30,0.874
+ours,1,31,0.8789
+ours,1,32,0.883
+ours,1,33,0.8765
+ours,1,34,0.8805
+ours,1,35,0.8777
+ours,1,36,0.8782
+ours,1,37,0.8778
+ours,1,38,0.8821
+ours,1,39,0.8892
+ours,1,40,0.8831
+ours,1,41,0.8815
+ours,1,42,0.8874
+ours,1,43,0.8892
+ours,1,44,0.8894
+ours,1,45,0.8988
+ours,1,46,0.8891
+ours,1,47,0.895
+ours,1,48,0.8988
+ours,1,49,0.8918
+ours,1,50,0.8987
+ours,2,1,0.4248
+ours,2,2,0.4806
+ours,2,3,0.5333
+ours,2,4,0.5777
+ours,2,5,0.6128
+ours,2,6,0.6534
+ours,2,7,0.6813
+ours,2,8,0.7018
+ours,2,9,0.7371
+ours,2,10,0.7502
+ours,2,11,0.7648
+ours,2,12,0.7818
+ours,2,13,0.7958
+ours,2,14,0.8122
+ours,2,15,0.8176
+ours,2,16,0.8269
+ours,2,17,0.8414
+ours,2,18,0.8478
+ours,2,19,0.8524
+ours,2,20,0.8508
+ours,2,21,0.8606
+ours,2,22,0.8596
+ours,2,23,0.866
+ours,2,24,0.86
+ours,2,25,0.8647
+ours,2,26,0.874
+ours,2,27,0.8733
+ours,2,28,0.8747
+ours,2,29,0.8777
+ours,2,30,0.8784
+ours,2,31,0.8886
+ours,2,32,0.8799
+ours,2,33,0.8845
+ours,2,34,0.8904
+ours,2,35,0.8907
+ours,2,36,0.888
+ours,2,37,0.8854
+ours,2,38,0.8916
+ours,2,39,0.8841
+ours,2,40,0.888
+ours,2,41,0.879
+ours,2,42,0.8836
+ours,2,43,0.8885
+ours,2,44,0.884
+ours,2,45,0.8932
+ours,2,46,0.8885
+ours,2,47,0.8845
+ours,2,48,0.8829
+ours,2,49,0.8843
+ours,2,50,0.8911
+ours w/o prior,0,1,0.4024
+ours w/o prior,0,2,0.45
+ours w/o prior,0,3,0.5017
+ours w/o prior,0,4,0.5419
+ours w/o prior,0,5,0.5791
+ours w/o prior,0,6,0.6062
+ours w/o prior,0,7,0.6385
+ours w/o prior,0,8,0.6586
+ours w/o prior,0,9,0.6779
+ours w/o prior,0,10,0.7014
+ours w/o prior,0,11,0.7141
+ours w/o prior,0,12,0.7347
+ours w/o prior,0,13,0.7542
+ours w/o prior,0,14,0.7486
+ours w/o prior,0,15,0.7624
+ours w/o prior,0,16,0.7778
+ours w/o prior,0,17,0.7767
+ours w/o prior,0,18,0.7871
+ours w/o prior,0,19,0.7858
+ours w/o prior,0,20,0.7998
+ours w/o prior,0,21,0.8062
+ours w/o prior,0,22,0.8121
+ours w/o prior,0,23,0.8185
+ours w/o prior,0,24,0.8175
+ours w/o prior,0,25,0.82
+ours w/o prior,0,26,0.8297
+ours w/o prior,0,27,0.8278
+ours w/o prior,0,28,0.8261
+ours w/o prior,0,29,0.8269
+ours w/o prior,0,30,0.8313
+ours w/o prior,0,31,0.8243
+ours w/o prior,0,32,0.8263
+ours w/o prior,0,33,0.839
+ours w/o prior,0,34,0.8361
+ours w/o prior,0,35,0.8408
+ours w/o prior,0,36,0.8375
+ours w/o prior,0,37,0.8493
+ours w/o prior,0,38,0.8461
+ours w/o prior,0,39,0.8494
+ours w/o prior,0,40,0.8501
+ours w/o prior,0,41,0.8442
+ours w/o prior,0,42,0.8409
+ours w/o prior,0,43,0.8434
+ours w/o prior,0,44,0.8535
+ours w/o prior,0,45,0.8513
+ours w/o prior,0,46,0.8409
+ours w/o prior,0,47,0.8415
+ours w/o prior,0,48,0.8448
+ours w/o prior,0,49,0.8399
+ours w/o prior,0,50,0.8382
+ours w/o prior,1,1,0.4107
+ours w/o prior,1,2,0.4619
+ours w/o prior,1,3,0.5053
+ours w/o prior,1,4,0.5314
+ours w/o prior,1,5,0.5809
+ours w/o prior,1,6,0.6109
+ours w/o prior,1,7,0.6359
+ours w/o prior,1,8,0.6664
+ours w/o prior,1,9,0.6791
+ours w/o prior,1,10,0.7013
+ours w/o prior,1,11,0.7116
+ours w/o prior,1,12,0.7335
+ours w/o prior,1,13,0.7453
+ours w/o prior,1,14,0.753
+ours w/o prior,1,15,0.7732
+ours w/o prior,1,16,0.7692
+ours w/o prior,1,17,0.7797
+ours w/o prior,1,18,0.7877
+ours w/o prior,1,19,0.793
+ours w/o prior,1,20,0.8056
+ours w/o prior,1,21,0.8124
+ours w/o prior,1,22,0.816
+ours w/o prior,1,23,0.81
+ours w/o prior,1,24,0.8266
+ours w/o prior,1,25,0.8265
+ours w/o prior,1,26,0.8252
+ours w/o prior,1,27,0.8323
+ours w/o prior,1,28,0.8359
+ours w/o prior,1,29,0.8348
+ours w/o prior,1,30,0.8489
+ours w/o prior,1,31,0.8355
+ours w/o prior,1,32,0.8335
+ours w/o prior,1,33,0.8364
+ours w/o prior,1,34,0.8478
+ours w/o prior,1,35,0.8402
+ours w/o prior,1,36,0.8397
+ours w/o prior,1,37,0.8391
+ours w/o prior,1,38,0.8366
+ours w/o prior,1,39,0.8347
+ours w/o prior,1,40,0.8335
+ours w/o prior,1,41,0.8363
+ours w/o prior,1,42,0.8401
+ours w/o prior,1,43,0.8331
+ours w/o prior,1,44,0.8351
+ours w/o prior,1,45,0.8366
+ours w/o prior,1,46,0.8281
+ours w/o prior,1,47,0.8294
+ours w/o prior,1,48,0.8249
+ours w/o prior,1,49,0.8254
+ours w/o prior,1,50,0.8304
+ours w/o prior,2,1,0.41
+ours w/o prior,2,2,0.456
+ours w/o prior,2,3,0.5025
+ours w/o prior,2,4,0.5426
+ours w/o prior,2,5,0.5766
+ours w/o prior,2,6,0.6081
+ours w/o prior,2,7,0.6316
+ours w/o prior,2,8,0.6574
+ours w/o prior,2,9,0.6797
+ours w/o prior,2,10,0.7046
+ours w/o prior,2,11,0.7126
+ours w/o prior,2,12,0.7241
+ours w/o prior,2,13,0.7459
+ours w/o prior,2,14,0.7589
+ours w/o prior,2,15,0.7707
+ours w/o prior,2,16,0.779
+ours w/o prior,2,17,0.7921
+ours w/o prior,2,18,0.7971
+ours w/o prior,2,19,0.8015
+ours w/o prior,2,20,0.8059
+ours w/o prior,2,21,0.8137
+ours w/o prior,2,22,0.8159
+ours w/o prior,2,23,0.8196
+ours w/o prior,2,24,0.8162
+ours w/o prior,2,25,0.8229
+ours w/o prior,2,26,0.8246
+ours w/o prior,2,27,0.8278
+ours w/o prior,2,28,0.8297
+ours w/o prior,2,29,0.8353
+ours w/o prior,2,30,0.8312
+ours w/o prior,2,31,0.8335
+ours w/o prior,2,32,0.8404
+ours w/o prior,2,33,0.8368
+ours w/o prior,2,34,0.8397
+ours w/o prior,2,35,0.8424
+ours w/o prior,2,36,0.8431
+ours w/o prior,2,37,0.843
+ours w/o prior,2,38,0.8419
+ours w/o prior,2,39,0.8442
+ours w/o prior,2,40,0.8427
+ours w/o prior,2,41,0.8388
+ours w/o prior,2,42,0.8416
+ours w/o prior,2,43,0.8375
+ours w/o prior,2,44,0.8389
+ours w/o prior,2,45,0.8339
+ours w/o prior,2,46,0.8404
+ours w/o prior,2,47,0.85
+ours w/o prior,2,48,0.8441
+ours w/o prior,2,49,0.8537
+ours w/o prior,2,50,0.8506
